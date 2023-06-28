@@ -1,0 +1,13 @@
+-------------Princípio da Responsabilidade Única-------------
+
+- Uma classe deve ter um, e somente um, motivo para mudar.
+
+- Esse princípio declara que uma classe deve ser especializada em um único
+assunto e possuir apenas uma responsabilidade dentro do software, ou seja,
+a classe deve ter uma única tarefa ou ação para executar.
+
+- Sendo assim, as classes Animal, Impressora e Calculadora possuem somente uma função.
+
+- O princípio da responsabilidade única não se limita somente a classes, ele
+também pode ser aplicado em métodos e funções, ou seja, tudo que é responsável
+por executar uma ação, deve ser responsável por apenas aquilo que se propõe a fazer.
