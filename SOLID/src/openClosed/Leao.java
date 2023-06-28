@@ -8,14 +8,6 @@ public class Leao extends Animal{
         this.alimentacao = alimentacao;
     }
 
-    public String getAlimentacao() {
-        return alimentacao;
-    }
-
-    public void setAlimentacao(String alimentacao) {
-        this.alimentacao = alimentacao;
-    }
-
     @Override
     public void emitirSom() {
         System.out.println("grrrrrrr");

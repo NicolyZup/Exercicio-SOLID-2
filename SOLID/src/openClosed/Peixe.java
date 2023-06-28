@@ -9,14 +9,6 @@ public class Peixe extends Animal{
         this.caracteristica = caracteristica;
     }
 
-    public String getCaracteristica() {
-        return caracteristica;
-    }
-
-    public void setCaracteristica(String caracteristica) {
-        this.caracteristica = caracteristica;
-    }
-
     @Override
     public void emitirSom() {
         System.out.println("grup grup");

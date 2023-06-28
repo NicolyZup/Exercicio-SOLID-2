@@ -1,7 +1,6 @@
 package interfaceSegregation;
 
 public class Carro implements Veiculo{
-
     @Override
     public void ligar() {
         System.out.println("Carro ligado!");

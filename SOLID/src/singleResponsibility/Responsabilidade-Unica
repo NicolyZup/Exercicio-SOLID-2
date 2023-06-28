@@ -6,7 +6,7 @@
 assunto e possuir apenas uma responsabilidade dentro do software, ou seja,
 a classe deve ter uma única tarefa ou ação para executar.
 
-- Sendo assim, as classes Animal, Impressora e Calculadora possuem somente uma função.
+- Sendo assim a classe Impressora tem somente uma função/responsabilidade.
 
 - O princípio da responsabilidade única não se limita somente a classes, ele
 também pode ser aplicado em métodos e funções, ou seja, tudo que é responsável

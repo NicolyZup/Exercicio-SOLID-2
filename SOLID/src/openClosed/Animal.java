@@ -9,21 +9,5 @@ public abstract class Animal {
         this.ambiente = ambiente;
     }
 
-    public String getNome() {
-        return nome;
-    }
-
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
-
-    public String getAmbiente() {
-        return ambiente;
-    }
-
-    public void setAmbiente(String ambiente) {
-        this.ambiente = ambiente;
-    }
-
     public abstract void  emitirSom();
 }
