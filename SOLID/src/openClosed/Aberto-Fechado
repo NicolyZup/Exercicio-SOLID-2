@@ -1,0 +1,10 @@
+-------------Princípio Aberto-Fechado-------------
+
+- Objetos ou entidades devem estar abertos para extensão, mas fechados
+para modificação, ou seja, quando novos comportamentos e recursos precisam
+ser adicionados no software, devemos estender e não alterar o código fonte
+original.
+
+- As classes Peixe, Leao e Gato são extensões da classe abstrata Animal.
+Essas classes herdam atributos e função obrigatórios e podem acrescentar
+outros atributos sem alterar a classe Pai.
